@@ -15,12 +15,9 @@ Este projeto utiliza a linguagem R para realizar a limpeza (data cleaning) e tra
 ## 🛠️ Tecnologias e Pacotes
 O projeto foi desenvolvido em **R**, utilizando principalmente o ecossistema Tidyverse:
 
-* **Pacotes Principais**
-*** **Ecossistema Tidyverse:**
-**** **nome da biblioteca:** função
+* **Pacotes:**
 
-*** **Outros:**
-**** **nome da biblioteca:** função
+## 🗂 Estrutura das Pastas e Arquivos
 
 ## ⚙️ Pipeline de Processamento
 
